@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RNI Mart - Enterprise Edition",
+  "description": "A high-performance digital mall management and retail platform featuring advanced business analytics, automated inventory control, and seamless customer experiences.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
